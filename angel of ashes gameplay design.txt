@@ -1,0 +1,21 @@
+Asheviere's portion is very RPG heavy, should be playable without any combat whatsoever if you desire. Most people will probably take a mix of combat and utility skills, but it should be possible to go either way and win, all combat or all utility. The objectives in Asheviere's portion rarely involve straight up killing people. Most of the time it's seeking objects, learning abilities, and evading detection. You can get around some of the evading detection by simply killing guards, but this is risky since if guards make it back to base you will have the entire guardhouse on you after that.
+
+Asheviere gets access to several categories of black magic throughout the campaign, which are:
+
+Utility
+Illusion: spells manipulating the senses, changing object appearances, smells, etc. in order to deceive or hide their true nature
+Astralism: spells pertaining to astral planes, including communicating with (but not summoning) the dead, astral projection, etc.
+Cognition: the ability to influence the minds and will of other creatures
+
+Utility and combat
+Carnalism: magic pertaining to affecting and warping flesh
+Negation: the ability to counter other magic, also involving arcane attacks
+
+Combat
+Frost magic: straightforwardly the ability to cast ice spells
+
+All of the categories could theoretically have both utiliy and combat spells but Asheviere's spells will be under these categories.
+
+Vardu's portion will be skirmish and infiltration heavy, relying heavily on fast moving small mobile bands of units to avoid being wiped out by larger scale combat. Scenarios will be designed in a way that straight on fighting the enemy's full army would be foolish, but instead allows for the ability to sow confusion or to infiltrate and only fight a few enemies at a time. Vardu and gang probably will get an option to let them don or remove armor whenever, which raises movement at the cost of lowering resistances or vice versa. Access to most normal orcish recruits including goblins. You start out with goblin recruits and need to get access to the other orcs. Probably no access to trolls.
+
+Objectives in Vardu's portion involve more combat and killing specific enemy leaders, though some may still be focused more on infiltration with slightly less bloodshed.
