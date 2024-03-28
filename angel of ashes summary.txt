@@ -24,11 +24,13 @@ From Vardu's side, it was a matter of convincing chieftains to rouse their horde
 
 Scenarios
 
+S0x - Matrimony. Cutscene of Asheviere getting married to Garard. He speaks to her briefly after, basically setting ground rules "Just listen to what I say and no magic."
+
 S1 - the Library. Hide and seek with guards to find books on black magic. Garard doesn't let her into the library because he didn't want her to learn magic, so she had to sneak in. 
 
-S1x - cutscene with her hiding around the corner at one of Garard's meetings in disguise, him shoving her roughly out of the way as he leaves, her implying he would do much worse if he knew it was her.
-
 S2 - the Butcher. Garard sometimes brings Asheviere around to battles, she witnesses him butcher orcs in the story text. This scenario is from Vardu's perspective, trying to survive against some guards and even other orcs in the battle's aftermath. Meets asheviere at the end of the scenario.
+
+S2x - cutscene with her hiding around the corner at one of Garard's meetings in disguise, him shoving her roughly out of the way as he leaves, her implying he would do much worse if he knew it was her.
 
 S3 - Nightmare. Asheviere gets killed over and over by Garard in a dream representing him doing bad things to her. She "dies" several times throughout the dream and has to beat him by fighting back before the end of the turn limit. Hint at her suiciding if she doesn't do so.
 
