@@ -21,3 +21,19 @@ From Vardu's side, it was a matter of convincing chieftains to rouse their horde
 - It's not quite accurate to say that Asheviere herself has allies. She more manipulates rumors and downplays herself in order to make people doubt Garard (so more of a saboteur). People more "ally" themselves with her because they think they can use her to their advantage. Later on especially after Garard dies, she has enough skill with black magic to directly dominate their minds.
 - Canonically, Asheviere is a prodigy in the "utility" side of black magic and is not good with the combat side like necromancy. The player can feel free to play her as more combat oriented for gameplay purposes though.
 - Asheviere both hates and loves Eldred. It's a complicated relationship. By the time she raises Li'sar, she's kind of mentally checked out and doesn't care anymore. Li'sar more or less learns stuff on her own.
+
+Scenarios
+
+S1 - the Library. Hide and seek with guards to find books on black magic. Garard doesn't let her into the library because he didn't want her to learn magic, so she had to sneak in. 
+
+S1x - cutscene with her hiding around the corner at one of Garard's meetings in disguise, him shoving her roughly out of the way as he leaves, her implying he would do much worse if he knew it was her.
+
+S2 - the Butcher. Garard sometimes brings Asheviere around to battles, she witnesses him butcher orcs in the story text. This scenario is from Vardu's perspective, trying to survive against some guards and even other orcs in the battle's aftermath. Meets asheviere at the end of the scenario.
+
+S3 - Nightmare. Asheviere gets killed over and over by Garard in a dream representing him doing bad things to her. She "dies" several times throughout the dream and has to beat him by fighting back before the end of the turn limit. Hint at her suiciding if she doesn't do so.
+
+S3x - Vardu meets asheviere again at daybreak, they talk about goals, she notes how cold and emotionless asheviere seems
+
+S4 - Bastion of Garard. Slightly open world where Asheviere explores Garard's fort, can get and use spells carefully on various people.
+
+
