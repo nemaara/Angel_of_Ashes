@@ -4,15 +4,34 @@ Asheviere gets access to several categories of black magic throughout the campai
 
 Utility
 Illusion: spells manipulating the senses, changing object appearances, smells, etc. in order to deceive or hide their true nature
+  - Likeness - can be upgraded several times, Asheviere can change her appearance to be a lot of different things, depending on the level of this spell. At max level, she can transform into Garard or Eldred.
+  - Invisibility - invisibility for X turns depending on level
+  - Mirror image - generates a copy of an allied or enemy unit of choice that does no damage but can tank a bit based on level
+  - Lethargy - slows a unit
+
 Astralism: spells pertaining to astral planes, including communicating with (but not summoning) the dead, astral projection, etc.
+  - Astral projection - asheviere can create a clone of herself that can traverse walls and interact with things, but dies in one hit. Can be upgraded to create more clones. The clones can attack and do reduced damage.
+  - Planeswalk - Gain movement (based on level) and become invulnerable, but still recognizable. 
+
+For both spells, if you are in a scenario where you need to not be recognized, they will not help if you get spotted.
+
 Cognition: the ability to influence the minds and will of other creatures
+  - Mind domination - can dominate the minds of lesser creatures, turning them into your minion. Can be used on up to lvl 2s based on level of this spell.
+  - Doubt - disables a unit (up to lvl 2 based on level of spell) for 1 turn.
+  - Frenzy (expert level) - causes a unit (up to lvl 2 based on level of spell) to go berserk, attacking whatever target happens to be nearby.
 
 Utility and combat
 Carnalism: magic pertaining to affecting and warping flesh
+  - Extortion - drains X life from target.
+  - Contortion (expert level) - warps the flesh, dealing X damage (based on level) to target. Creates a ghoul if it kills the target.
 Negation: the ability to counter other magic, also involving arcane attacks
+  - Counterspell - same as TDG
+  - Negatus arcana - like shadow wave, but reduces incoming magic damage when used
 
 Combat
 Frost magic: straightforwardly the ability to cast ice spells
+  - Chill wave - same as the regular chill attack
+  - Chill touch - same as TDG
 
 All of the categories could theoretically have both utiliy and combat spells but Asheviere's spells will be under these categories.
 
