@@ -13,7 +13,7 @@ From Vardu's side, it was a matter of convincing chieftains to rouse their horde
 - Notes
 - 
 - Vardu is usually referred to with masculine terms despite not being male.
-- Vardu partially has a goal of revenge but mainly is trying to set up a small safe village for herself and like-minded orcs. Destabilizing the neighboring clans (especially Whitefang) helps accopmlish this.
+- Need to figure out why Vardu would help Asheviere. 
 
 - Asheviere's goal is not to rule Wesnoth. Her main point is just to get revenge on Garard because she hates him. Her ascent to power is more out of happenstance, in her quest to get allies or at least turn people against Garard, she gets enough allies and enough opposition dies at the battle at the Great River that she ends up being the de facto leader of Wesnoth. She actually wanted Eldred to become the new King after Garard's death (once he was old enough), but obviously that couldn't happen since Delfador went zap.
 - Asheviere sets it up in a way that Eldred takes the blame for Garard's fall. People look and think it was the Prince's own ambition that led to this.
@@ -32,8 +32,20 @@ S2 - the Butcher. Garard sometimes brings Asheviere around to battles, she witne
 
 S3 - Nightmare. Asheviere gets killed over and over by Garard in a dream representing him doing bad things to her. She "dies" several times throughout the dream and has to beat him by fighting back before the end of the turn limit. Hint at her suiciding if she doesn't do so.
 
-S3x - Vardu meets asheviere again at daybreak, they talk about goals, she notes how cold and emotionless asheviere seems
+S4 - Fort Garard. Slightly open world where Asheviere explores Garard's fort, can get and use spells carefully on various people, can interact with younger Eldred. End objective is to leave the fort and meet with Vardu again, giving Vardu assignment to strengthen the orcish front against Garard.
 
-S4 - Bastion of Garard. Slightly open world where Asheviere explores Garard's fort, can get and use spells carefully on various people.
+S4x - Cutscene showing vardu meeting a Blackcrest Shaman. She says she doesn't need much convincing to fight off the humans, who threaten them all, but the Whitefangs have trouble working together among themselves, let alone with other clans. Suggests that among their chiefs, maybe Chief Ushka'e is one of the more practical minded ones, but he's not likely to entertain visitors.
+
+S5 - Vardu seeks out the whitefang camp as it's being assaulted by humans. Bulk of their forces fight humans, Vardu tries to get through their guards but they won't let her through so she has to infiltrate by force. Luckily, you don't need to beat many guards as they are fighting many humans. When you meet Ushka'e, he grumbles, saying those Blackcrests are awfully useless compared to even their lizard allies. But those weakling Blackcrests can't even get the lizards to fight alongside them so there's no point in talking about an alliance. Vardu sees a path forward in getting the saurians to fight for Clan Blackcrest by deepening the alliance.
+
+S6 - Rescue mission, Vardu goes to seek a saurian matriarch near Fort Garard. They have been assaulted by humans repeatedly and have grown weaker yet are unwilling to give up their land. Simple defeat the enemy leader, but you find out just asking them to ally with Clan Blackcrest is not enough - they think that an offensive war is stupid as they are having enough trouble fighting in their own swamps. Vardu asks if there is nothing they can do/no aid to be had even under these circumstances? Saurian says it is a risk too great to them, but there is an orcish hermit deeper in the swamp who may be more willing to listen to them, but also to be wary of her.
+
+S7a - Vardu meets Iliah'al, who plays a game with Vardu using mud copies. Beating the boss battle lets you talk to Iliah'al who is willing to hear out Vardu's plan. Iliah'al is interested, says to follow her north of the swamp at the foothills of the heart mountains.
+
+S7b - Ritual of Apparitions. Iliah'al leads them to an ancient tomb where the ashes of many drakes lie. Some still live nearby, their fire is needed to animate the long dead ashes into a form useful to them. Iliah'al begins channeling for the ritual, you need to both guard her and kill a set number of drakes to fulfill the ritual. Fulfilling the ritual raises a mighty armageddon drake which they can then use to manipulate the saurians into doing whatever they like.
+
+S7x - Asheviere hides, listening at one of Garard's meetings. Marshal Haral mentions wiping out a pack of lizards out of necessity due to their skirmishing capabilities, but expresses concern about deepening their alliance with the orcs. Garard dismisses him, saying they're just lizards, how tough can they really be? Haral isn't really pleased. 
+
+S8 - Weldyn. Small open world of Weldyn like S4. Asheviere interacts with more people, including Eldred and Maddock.
 
 
